@@ -1,0 +1,16 @@
+.dashboard-photo {
+    height: 3em;
+    width: 3em;
+    object-fit: cover;
+}
+
+.edit-photo {
+    height: 7em;
+    width: 7em;
+    object-fit: cover;
+}
+
+.edit-icon {
+    font-size: 7em;
+    
+}
